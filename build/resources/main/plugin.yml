@@ -1,0 +1,5 @@
+name: HypeCore
+author: CCGE
+version: 1.0
+api-version: 1.19
+main: com.minje.hypecore.Main
